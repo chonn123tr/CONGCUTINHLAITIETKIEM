@@ -1,6 +1,7 @@
 
 import streamlit as st
 import pandas as pd
+st.image("logo.jpg")
 
 # =========================
 # CẤU HÌNH TRANG WEB
