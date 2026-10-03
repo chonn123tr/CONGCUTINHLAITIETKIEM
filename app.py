@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 MÁY TÍNH LÃI TIẾT KIỆM")
+st.title("💰 MÁY TÍNH LÃI TIẾT KIỆM_Trần Thanh An")
 st.write(
     "Tính toán số tiền lãi và tổng số tiền nhận được "
     "dựa trên số tiền gửi, kỳ hạn và lãi suất."
